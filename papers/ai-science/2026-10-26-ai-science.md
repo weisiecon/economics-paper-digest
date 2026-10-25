@@ -1,0 +1,10 @@
+# AI & Economics of Science Papers — 2026-10-26
+
+## 1. Stronger artificial intelligence breakthroughs hasten their own exhaustion [Econ of Science]
+
+**Authors:** Beichen Lu, Honglin Bao, Qi Huang, Qingguo Meng, James A. Evans
+**Date:** October 19, 2026
+**Source:** https://arxiv.org/abs/2610.27296
+**Summary:** Analyzing 36 years of computer science research — 7.2 million papers, 73,089 peer reviews, and 3.7 million researchers — the authors show that major AI breakthroughs (AlexNet, Transformers, LLMs) draw so much collective attention that they deplete the diversity of ideas needed to sustain further progress, with mid-career researchers disproportionately piling into the dominant paradigm and reviewer confidence falling as the field narrows. They find the same attention-depletion cycle in structural biology after cryo-EM and AlphaFold, and simulations show that common incentives like reciprocal reviewing accelerate the narrowing by rewarding prolific authors already working on the winning approach. The paper argues that sustaining long-run scientific progress requires institutions that deliberately protect diverse research attention rather than reward further concentration on whatever paradigm is currently winning.
+
+Only one paper met the scope and 30-day window this run. The arXiv harvest (econ.GN, cs.DL, cs.CY, 150 most recently updated) otherwise returned either papers already covered in prior digests or candidates judged too tangential to the economics, production, or governance of science (a business-student literature-search tool, a research-data-repository metadata-schema study, a Colombian procurement study, an AI-perception survey). Budgeted supplementary searches of NBER, CEPR, and SSRN found no new in-window candidates — the closest NBER match ("AI in Science," Agrawal/McHale/Oettl) issued in March 2026, and an IZA paper on AI reviewer bias dated to January 2025; an INFORMS Management Science page and NBER's new-papers listing both returned 403 errors and were unreachable.
