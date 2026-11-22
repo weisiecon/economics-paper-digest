@@ -1,0 +1,3 @@
+# AI & Economics of Science Papers — 2026-11-23
+
+No new qualifying papers were found in the 30-day window today. The arXiv harvest (econ.GN, cs.DL, cs.CY) surfaced 13 scope-matching candidates, but all had already been covered in earlier digests except two, and those two (a learning-analytics visualization paper and a philosophy-of-language piece on machine speech acts) fell outside this digest's scope. Supplementary checks of NBER, CEPR, and IZA surfaced relevant AI-and-science work (e.g., NBER w35859 on AI use in PhD dissertations, w35330 on young scientists' career intentions), but both were dated outside the 30-day window, so nothing was added.
