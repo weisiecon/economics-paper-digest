@@ -1,36 +1,31 @@
 # AI & Economics of Science Papers — 2026-11-26
 
-## 1. Survivors in science: A comprehensive analysis of gender disparities [Econ of Science]
+## 1. Can Large Language Models Estimate the Likely Technological Impact of Scientific Research? Evidence from Biotechnology [AI for Science]
 
-**Authors:** Marek Kwiek, Lukasz Szymula
-**Date:** December 11, 2025 (v5, November 21, 2026)
-**Source:** https://arxiv.org/abs/2512.22140
-**Summary:** Kwiek and Szymula track 41,424 scientists who began publishing in 2000 and remained active through 2020-2023, compiling over two million of their publications and seventy million cited references across 38 OECD countries. Men in this long-surviving cohort were on average 23% more productive cumulatively and 19% more productive in the most recent years, even though men and women published in similarly prestigious journals, achieved comparable field-normalized citation impact, and worked in similarly sized teams. The findings show that gender gaps measured across the broader scientific population do not necessarily persist among those who stay in science longest, but the productivity gap is an exception that endures even among survivors.
+**Authors:** Zhiyu Tao, Mike Thelwall, Danqun Zhao, Yi Bu
+**Date:** November 25, 2026
+**Source:** https://arxiv.org/abs/2611.34300
+**Summary:** Tao, Thelwall, Zhao, and Bu test whether three large language models (GPT-5-mini, Qwen-Flash, and DeepSeek-V3.2) can gauge a biotechnology paper's eventual technological payoff, comparing each model's text-based impact score against the paper's actual patent citations across 107,615 papers published between 1980 and 2015. The models' estimates correlate meaningfully with later patent impact and beat random selection at flagging papers that go on to generate outsized patent activity, though accuracy varies considerably across fields, journals, and countries. The results suggest LLMs could help funders and technology scouts triage large volumes of scientific output for likely real-world impact, while cautioning that such screening remains uneven and imperfect.
 
-## 2. Smaller, Younger, and More Visible? AI-Assisted Writing, Scientific Team Composition, and the Visibility of Scientific Knowledge [AI for Science]
+## 2. Trajectories and Comparative Analysis of Global Countries Dominating AI Publications, 2000-2025 [Econ of Science]
 
-**Authors:** Mingze Zhang, Haoyang Wang, Yi Bu, Star Xing Zhao, Meijun Liu
-**Date:** April 24, 2026 (v2, November 23, 2026)
-**Source:** https://arxiv.org/abs/2605.27404
-**Summary:** Zhang and colleagues analyze 144,930 full-text articles from the PLoS family and Nature Portfolio (2020-2025), using a text-based detector to estimate how much AI-assisted writing shaped each paper, then relate those estimates to the authoring team's age, size, and citations received within a year. Papers with higher estimated AI usage tend to come from younger, smaller teams and receive more citations in their first year, though the team-size effect is weaker at Nature journals. The results suggest AI-assisted writing is reshaping who can produce visible research, narrowing the visibility advantage that larger teams have traditionally held.
+**Authors:** Jason Hung
+**Date:** September 29, 2025 (v4, November 22, 2026)
+**Source:** https://arxiv.org/abs/2509.25298
+**Summary:** Hung tracks each country's share of global AI research output and citation impact from 2000 to 2025 using OpenAlex data and fractional authorship counting to avoid double-crediting co-authored work. The combined U.S. and EU share of AI publications fell from over 57% to under 25% over this period, while China's share rose from under 5% to nearly 36% and recently overtook other countries in highly cited AI output as well, with India also emerging as a major contributor to a more multipolar research landscape. The findings document a measurable shift in which countries produce and are cited for AI research, though the author cautions that publication and citation shares are proxies for volume and influence rather than direct evidence of research quality.
 
-## 3. Managing Verification Debt: A Framework for Responsible Human-AI Research Partnerships [AI for Science]
+## 3. The Socratic PAUSE: safeguarding scientific judgement at AI speed [AI for Science]
 
 **Authors:** Abdulkadir Celik, Sir Bashir M. Al-Hashimi
-**Date:** November 22, 2026
-**Source:** https://arxiv.org/abs/2611.29434
-**Summary:** Celik and Al-Hashimi argue that generative AI can turn a vague research question into a full research outline faster than humans can evaluate it, creating a backlog of unverified AI contributions they call "verification debt." They propose tracking a research programme as a structured map of claims, assumptions, sources, and decisions, each tagged with its verification status, so unresolved debt stays visible and corrections can propagate to dependent claims before the research proceeds. The framework targets supervisors, peer reviewers, and research teams working with AI, aiming to keep human oversight meaningful rather than purely procedural.
+**Date:** November 25, 2026
+**Source:** https://arxiv.org/abs/2611.34222
+**Summary:** Celik and Al-Hashimi argue that generative AI now accelerates scientific idea generation far faster than researchers can verify it, letting unchecked "verification debt" build up through recursive reinforcement, loss of provenance, and miscalibrated trust in AI-generated contributions. They propose the Socratic Pause, a five-step checkpoint (pin down the claim, ask and challenge, uncover assumptions, scrutinise the evidence, exercise judgement) that researchers apply at key decision points before accepting, revising, rejecting, or deferring an AI contribution. The protocol aims to let researchers keep exploring freely with AI while preserving a documented, accountable record of what was actually checked and why a conclusion was trusted.
 
-## 4. A Framework for AI-Ready Data in Earth and Environmental Science [AI for Science]
+## 4. Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions [Science Policy]
 
-**Authors:** Tobias Weigel, Jan Bumberger, Danu Caus, Christian Chwala, Romy Fösig, Sonja Hänzelmann, Sibylle K. Hassler, Beate Hetenyi, Ralf Kunkel, Katharina Loewe, Ulrich Loup, Yueling Ma, Stefan Neuhaus, Kaleb Phipps, Tino Polen, Maren Rebke, Björn L. Saß, David Schäfer, Timm Schoening, Emanuel Söding, Paula Stock
-**Date:** November 20, 2026
-**Source:** https://arxiv.org/abs/2611.27313
-**Summary:** A multidisciplinary group of Earth- and environmental-science data managers and AI practitioners develop a 25-criterion framework for judging whether research datasets are actually usable for training and evaluating machine-learning models, going beyond existing FAIR data principles. The criteria cover data preparation, documentation, provenance, bias and uncertainty disclosure, machine-readable metadata, and the quality of supervised-learning targets, and were tested against a range of real environmental use cases. The authors frame AI-readiness as a matter of transparency and fitness for a given purpose rather than a fixed quality bar, offering infrastructure builders a shared vocabulary for upgrading scientific data pipelines for AI use.
+**Authors:** Azza Ahmed, Sreeparna Deb, Taylor Stone, Sven Warris, Aaron Ding, Joost Bengsch, Margriet Cox, Julio Alexandrino de Oliveira Filho, Alexandre Strube, Avishek Anand, Thomas Abeel, the Towards Democratized Academic LLM Hosting Workshop Consortium
+**Date:** November 25, 2026
+**Source:** https://arxiv.org/abs/2611.34383
+**Summary:** Ahmed and a multi-institution consortium synthesize a workshop of research-support, infrastructure, and policy staff from Dutch universities to examine how academic institutions are standing up their own LLM hosting services rather than relying solely on commercial providers. They surface recurring tensions around deployment models, energy and compute costs, governance responsibility, tooling gaps, and how institutional services should relate to commercial AI offerings in research and teaching. The paper offers an early cross-institutional look at the operational and governance choices universities face when building shared AI infrastructure, informing how research systems might coordinate rather than duplicate that investment.
 
-## 5. MagTrace: Tracing magnetic order through the evolving scientific literature [AI for Science]
-
-**Authors:** Mengnan Sun, Cheng Peng
-**Date:** November 20, 2026
-**Source:** https://arxiv.org/abs/2611.28338
-**Summary:** Sun and Peng build MagTrace, a language-model agent that, given just a material's name, searches multiple literature databases, reads open-access full texts, and reports which magnetic orders the current literature supports, each with a confidence score and checkable citations. Tested against a hand-built answer key for 18 materials, MagTrace scores far higher on a combined accuracy metric than the same underlying model working only from abstracts or from memory, and it fabricates nonexistent citations far less often than the memory-only baseline. The tool illustrates how retrieval-grounded AI agents can replace hours of manual literature curation in materials science, though it still frequently misses specific structural details like propagation vectors.
+Only four candidates qualified this round. An earlier same-day pass on this file had re-surfaced four papers already covered in the 2026-11-24 and 2026-11-25 digests (with reworded summaries) instead of excluding them; this version replaces that content after rebuilding the dedupe index and re-running the arXiv harvest. Supplementary NBER/SSRN checks found no additional in-window candidates; excluded off-scope arXiv hits from this harvest were AI exposure in UK civil-service job design, a neuroimaging data-sharing infrastructure paper with no AI angle, and GenAI teaching guidance at Canadian polytechnics.
